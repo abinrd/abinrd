@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Abin Raju Daniel pursuing B.Tech in Computer Science Engineering with Cyber Security
 
 <!--
 **abinrd/abinrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
