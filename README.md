@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abin Raju Daniel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **ComputerScienceEnigineering**
+- 🌱 Undergraduate Computer Science Engineering student| Specializing in Cyber Security |Eager to apply academic learnings in a real-world setting
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
