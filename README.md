@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abin Raju Daniel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">From India</h3>
 
 - 🌱 Undergraduate Computer Science Engineering student| Specializing in Cyber Security |Eager to apply academic learnings in a real-world setting
 
